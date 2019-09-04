@@ -1,1 +1,1 @@
-export class alumno { id: number; name: string; }
+export class Alumno { id: number; name: string; }
